@@ -33,6 +33,13 @@ Quick reference guides for last-minute revisions and time complexities.
 - Big O Cheat Sheet
 - System Design Numbers everyone should know
 
+### [5. Interview Process Breakdown](./05_Interview_Process_Detailed_Breakdown/)
+A detailed look at the 5 main rounds of the Google interview process, including focus areas and evaluation criteria.
+- Technical Phone Screen
+- Coding Rounds (I & II)
+- System Design Round
+- Googliness & Leadership
+
 ---
 
 ## 💡 How to Use This Kit
